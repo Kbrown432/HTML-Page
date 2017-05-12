@@ -1,0 +1,403 @@
+/*--Project 1 & 2 additions--*/
+h1 {
+	text-align: center;
+	color: white; 
+	font-family: "Verdana";
+	font-size: 32px;
+	margin: 0px;	 
+}
+
+nav {
+	float: left;
+	margin: 0px 10px 10px 0px;
+	height: 250px;
+	width: 120px;
+	font-size: 20px;
+	line-height: 50px; 
+	background-color: #FFD073;
+	text-align: center;
+	border-style: solid; 
+}
+
+a  {
+	color: #A64B00;
+}
+
+h3 {
+	font-family: "Verdana";
+	font-size: 20px;
+	color: #FFAA00; 
+	
+	margin: 0px;
+	line-height: 35px;
+}
+
+body {
+	width: 800px;
+	margin: 0px;
+}
+
+p {
+	font-size: 14px;
+	margin-top: 0px;
+	margin-bottom: 10px;
+	font-family: "Verdana";
+	line-height: -0.5px;
+	
+
+}
+/*-- Project 3 additions--*/
+
+aside {
+	float: right;
+	height: 260px;
+	margin-right: 10px;
+	margin-left: 10px;
+	margin-bottom: 15px;  
+}
+
+aside img {
+	height: 260px;
+	width: 200px;
+}
+
+article {
+	height: 300px;
+	font-size: 16px;
+	color: white;
+	margin-bottom: 10px;
+	background-color: #006363;
+	margin: 0px;
+
+}
+
+footer {
+	background-color: #FFD073;
+	text-align: center; 
+	color: #A64B00;
+	width: 800px;
+	height: 60px;
+	margin: 0px;
+	margin-bottom: 0px;
+	margin-top: 0px;
+}
+
+#p00 {
+	margin: 0px;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	text-align: center;
+	font-family: "Verdana";
+	font-size: 20px;
+}
+
+header {
+	margin: 0px;
+	height: 100px;
+	background-color: #009999;
+}
+
+/*--Made a id attribute for footer paragraphs*/
+#p1{
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-size: 12px;
+}
+
+#p0 {
+	margin-bottom: 0px;
+	font-size: 12px;
+	margin: 0px;
+	margin-top: 0px;
+
+}
+
+#p01 {
+	margin-bottom: 0px;
+	font-size: 12px;
+	margin-top: 0px;
+	margin: 0px;
+}
+
+section {
+	background-color: #006363;
+	height: 225px;
+	margin-bottom: -5px;
+	margin: 0px;
+	margin-top: -10px; 
+}
+
+/*--Project 4 additions--*/
+#p2 {
+	font-family: "Verdana";
+	font-size: 16px;
+}
+
+figcaption {
+	color: #FFAA00;
+	text-align: center;
+	
+}
+
+figure {
+	margin: 0px;
+	margin-top: 10px;
+	width: 800px;
+	float: left;
+	height: 170px;
+}
+
+#c1 {
+	float: right;
+	width: 200px;
+}
+
+#c2 {
+	margin: 0px;
+	height: 170px;
+	margin-left: 10px;
+	margin-top: 0px;
+	margin-right: -10px;
+}
+
+/*--Project 5 additions--*/
+
+article, aside, figcaption, figure, footer, header, nav, section {
+	display: block;
+}
+
+article {
+	height: 425px;
+}
+
+section {
+	height: 425px;
+}
+
+nav	{
+	margin-bottom: 0px;
+	float: left;
+	margin-right: 15px;
+	width: 125px;
+	height: 260px; 
+}
+
+header {
+	
+}
+
+h3 {
+	text-align: center;
+}
+
+p {
+	margin-left: 5px;
+	line-height: -10px;
+}
+
+#p00 {
+	font-size: 12px; 
+}
+
+#p0 {
+	font-size: 12px;
+}
+
+#p1 {
+	font-size: 12px;
+}
+
+h2 {
+	text-align: center;
+	margin-top: 0px;
+	color: white;
+	font-family: "Verdana";
+	font-size: 20px;
+}
+
+aside {
+	float: right;
+	height: 250px;
+}
+
+aside img {
+	height: 199px;
+	width: 200px;
+}
+
+figure {
+	height: 199px;
+	width: 200px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+/*--Project 6 additions--*/
+
+.form2 {
+	
+	float: right;
+	height: 250px;
+	margin-top: -260px;
+	margin-left: 0px;
+
+}
+
+nav {
+	height: 250px;
+	margin-top: 10px;
+}
+	
+article {
+	height: 350px;
+}	
+
+.form {
+	margin-right: 0px;
+	margin-left: 140px;
+	width: 650px;
+	height: 350px;
+	background-color: #FFE09F;
+	color: black; 
+}
+
+.form1 {
+	height: 250px;
+}
+
+p {
+	width: 300px;
+}
+
+#cp {
+	width: 600px;
+	margin: 0px;
+}
+
+
+
+section {
+	height: 450px;
+}
+
+footer {
+	text-align: center;
+}
+
+#p0 {
+	margin-left: 300px;
+}
+
+#p00 {
+	margin-left: 300px;
+}
+
+#p1 {
+	margin-left: 300px;
+}
+
+.graph {
+	margin-left: 5px;
+	margin-bottom: 0px;
+	margin-top: 10px;
+}
+
+.button {
+	margin-left: 225px;
+	background-color: #006363;
+	color: white;
+}
+
+/*--Project 7 additions--*/
+
+.peach {
+	width: 300px;
+	height: 75px;
+	float: right;
+	background-color: #EA77AF;
+	border: 2px solid black;
+	margin-left: 10px;
+	text-align: center;
+	margin-right: 0px;
+}
+
+h4 {
+	margin: 0px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+section {
+	height: 500px;
+}
+
+#mario {
+	margin-bottom: 0px;
+	margin-top: 5px;
+}
+
+#wario {
+	background-color: green;
+}
+
+/*--Project 8 additions--*/
+
+p {
+	color: white;
+	font-family: Verdana;
+	width: 785px;
+}
+
+section {
+	height: 75px;
+}
+
+#a {
+	width: 500px;
+	margin-right: 10px;
+}
+
+article {
+	height: 430px;
+}
+
+nav {
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+
+#p00 {
+	margin-left: 0px;
+	color: #A64B00;
+}
+
+#p0 {
+	margin-left: 0px;
+	color: #A64B00;
+}
+
+#p1 {
+	margin-left: 0px;
+	color: #A64B00;
+}
+
+/*--Project 9 additions--*/
+
+aside {
+	float: left;
+	height: 180px;
+	margin-bottom: 0px;
+	margin-top: 0px;
+}
+
+article {
+	height: 500px;
+}
+
+#c {
+	margin-top: 0px;
+}
+
+#f {
+	margin-left: 145px;
+}
